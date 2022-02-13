@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #b7dfe9;
+    background-color: #79589f;
 }
 
 .avatar {
@@ -30,12 +30,12 @@ body {
     0 100px 80px rgba(0, 0, 0, 0.12);
     margin: 100px auto 100px;
     background: #eef3f5;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 h1 {
     color: #2f455c;
-    font-family: 'Fredoka One', cursive;
+    font-family: 'Roboto Serif', cursive;
     font-size: 2rem;
     text-align: center;
 }
@@ -83,7 +83,7 @@ h1 {
   
   .deploy-button::after {
     content: "";
-    background-color: #92eedf;
+    background-color: #79589f;
     width: 100%;
     z-index: -1;
     position: absolute;
