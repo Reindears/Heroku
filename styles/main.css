@@ -9,7 +9,7 @@ body {
 }
 
 .avatar {
-    width: calc(250 * 1.6px);
+    width: calc(100 * 1.6px);
     position: fixed;
     bottom: 0px;
     right: calc(-10 * 10px);
